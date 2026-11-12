@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-[Strawpage](https://mayeisha.straw.page)
+
 
 
 
