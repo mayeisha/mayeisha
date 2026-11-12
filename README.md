@@ -2,7 +2,8 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
+
+<div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=mayeisha.mayeisha&left_color=skyblue&right_color=royalblue&left_text=lovelies"  />
 </div>
 
