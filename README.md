@@ -15,7 +15,7 @@
   <a href="https://mayeisha.straw.page/">𝒮traw𝒫age</a>
 </p>
 <p align="center">
- <a href="mayeisha.atabook.org">𝒜taℬook</a>
+ <a href="https://mayeisha.atabook.org">𝒜taℬook</a>
 </p>
 
 <p align="center">
